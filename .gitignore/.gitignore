@@ -1,0 +1,87 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+target/
+
+*.iml
+
+.idea/
+
+src/main/resources/public/app
+
+log/
+
+nb-configuration.xml
+
+# Mac
+
+.DS_Store
+
+# Win
+
+Thumbs.db
+
+ehthumbs.db
+
+#IntelliJ
+
+.idea
+
+#yeoman
+
+# node_modules
+
+node_modules
+
+report
+
+coverage
+
+build
+
+tmp
+
+
+
+# Log files
+
+*.log
+
+
+
+### Node ###
+
+# Logs
+
+logs
+
+*.log
+
+# Runtime data
+
+pids
+
+*.pid
+
+*.seed
+
